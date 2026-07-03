@@ -673,3 +673,14 @@ background:#2563EB;
 color:white;
 
 }
+/* Active Navigation Link */
+
+.nav-links a.active{
+
+    color:#60A5FA;
+
+    border-bottom:2px solid #60A5FA;
+
+    padding-bottom:5px;
+
+}
